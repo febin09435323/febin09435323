@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @febin09435323
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently Woriking at Detroit Engineered Products Pvt Ltd
+- 🌱 I’m currently Woriking at Amdocs
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... febinfrancis.marine@outlook.com
 
